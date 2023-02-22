@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Naveed89-tech/Background_slider)
+- Solution URL: [Github](https://github.com/Naveed89-tech/summary_result)
 - Live Site URL: [Background_slider](https://backgroundsliderappjavascript.netlify.app/)
 - Portfolio_Website: [Portfolio_Website](https://naveedtechs.netlify.app/)
 
@@ -25,7 +25,6 @@ Users should be able to:
 
 - CSS custom properties
 - HTML
-- Vanilla Javascript
 
 ## Author
 
