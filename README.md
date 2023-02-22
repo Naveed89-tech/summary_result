@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Naveed89-tech/summary_result)
-- Live Site URL: [Results summary](https://backgroundsliderappjavascript.netlify.app/)
+- Live Site URL: [Results summary](https://resultsummarytotal.netlify.app/)
 - Portfolio_Website: [Portfolio_Website](https://naveedtechs.netlify.app/)
 
 ## My process
