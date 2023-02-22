@@ -1,13 +1,13 @@
 # Background Slider
 
-This is a background image slider, simply made with HTML,CSS and Vanilla Javascript.
+This is a very simple project to start again a front end journey after long break, simply made with HTML,CSS.
 
 ### The challenge
 
 Users should be able to:
 
-- User will be able to see thumbnail part of main image on screen.
-- Click on right or left arrow, user can see different images.
+- User will be able to see overall result and detail of each shade of result.
+- On hover or click, use can see the different design of continue button.
 
 ### Screenshot
 
