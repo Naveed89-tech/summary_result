@@ -1,4 +1,4 @@
-# Background Slider
+# Results Summary
 
 This is a very simple project to start again a front end journey after long break, simply made with HTML,CSS.
 
